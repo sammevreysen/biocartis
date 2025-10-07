@@ -25,3 +25,4 @@ Run `poetry install`
 
 ## Data science project
 Run `poetry run jupyter lab`
+
